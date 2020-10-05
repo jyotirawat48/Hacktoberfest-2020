@@ -33,6 +33,7 @@ git push [remote-name] master
 --> Star my repository.
 
 --> Congratulations!! You have successfully created your pull request.
+the end
 
 -->Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 
